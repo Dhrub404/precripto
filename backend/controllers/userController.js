@@ -10,7 +10,7 @@ import { v2 as cloudinary } from "cloudinary";
 import doctorModel from "../models/doctorModel.js";
 import appointmentModel from "../models/appointmentModel.js";
 
-// ================== RAZORPAY INSTANCE (REAL) ==================
+// ============== RAZORPAY INSTANCE (REAL) ==================
 
 let razorpayInstance = null;
 
@@ -27,7 +27,7 @@ if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_SECRET) {
   );
 }
 
-// ================== AUTH / USER ==================
+// ============= AUTH / USER ==================
 
 // API to register user
 const registerUser = async (req, res) => {

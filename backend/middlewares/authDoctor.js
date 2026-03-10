@@ -1,6 +1,6 @@
 import jwt from "jsonwebtoken";
 
-//Doctor Authentication Middleware
+//Doctor Authentication.  Middleware
 const authDoctor = async (req, res, next) => {
   try {
     const { dtoken } = req.headers;

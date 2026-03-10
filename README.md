@@ -7,9 +7,9 @@ This project was built as a team effort with a strong focus on real‑world heal
 ---
 
 👥 Team
+- Saroj Kumar Sah
 - Vikas A R
 - Sampreeth C H
-- Saroj Kumar Sah
 - Sanjan R
 
 ---
@@ -181,6 +181,6 @@ Environment variables are configured directly in Vercel dashboard.
 📄 License
 This project is for educational and demonstration purposes.  
 
-Built with ❤️ by Team Vikas A R, Sampreeth C H, Saroj Kumar Sah & Sanjan R
+Built with ❤️ by Team Saroj Kumar Sah, Vikas A R, Sampreeth C H & Sanjan R
 
 ---

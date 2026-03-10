@@ -22,7 +22,7 @@ const addDoctor = async (req, res) => {
     } = req.body;
     const imageFile = req.file;
 
-    // checking for all data to add doctor
+    // checking for all data for a doctor
     if (
       !name ||
       !email ||
