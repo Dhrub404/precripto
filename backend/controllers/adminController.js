@@ -63,7 +63,6 @@ const addDoctor = async (req, res) => {
     });
     const imageUrl = imageUpload.secure_url;
 
-    //hey
     //saving data to doctorModel
     const doctorData = {
       name,
